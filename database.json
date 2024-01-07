@@ -1,0 +1,53 @@
+{
+    "usuarios": [
+      {
+        "user_id": 1,
+        "username": "usuario1",
+        "user_email": "usuario1@email.com",
+        "user_status": 1
+      },
+      {
+        "user_id": 2,
+        "username": "usuario2",
+        "user_email": "usuario2@email.com",
+        "user_status": 0
+      },
+      {
+        "user_id": 3,
+        "username": "usuario3",
+        "user_email": "usuario3@email.com",
+        "user_status": 1
+      },
+      {
+        "user_id": 4,
+        "username": "usuario4",
+        "user_email": "usuario4@email.com",
+        "user_status": 0
+      },
+      {
+        "user_id": 5,
+        "username": "usuario5",
+        "user_email": "usuario5@email.com",
+        "user_status": 1
+      },
+      {
+        "user_id": 6,
+        "username": "usuario6",
+        "user_email": "usuario6@email.com",
+        "user_status": 0
+      },
+      {
+        "user_id": 7,
+        "username": "usuario7",
+        "user_email": "usuario7@email.com",
+        "user_status": 1
+      },
+      {
+        "user_id": 8,
+        "username": "usuario8",
+        "user_email": "usuario8@email.com",
+        "user_status": 0
+      }
+    ]
+  }
+  
